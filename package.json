@@ -14,8 +14,6 @@
   "dependencies": {
     "@formspree/react": "^2.5.1",
     "@next/bundle-analyzer": "14.1.0",
-    "@tailwindcss/forms": "^0.5.7",
-    "@tailwindcss/typography": "^0.5.10",
     "@waline/client": "^3.0.0-alpha.11",
     "autoprefixer": "^10.4.17",
     "contentlayer": "0.3.4",
@@ -31,7 +29,6 @@
     "next-contentlayer": "0.3.4",
     "next-themes": "^0.2.1",
     "pliny": "0.1.6",
-    "postcss": "^8.4.33",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-h5-audio-player": "^3.9.1",
@@ -47,7 +44,6 @@
     "remark": "^15.0.1",
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
-    "tailwindcss": "^3.4.1",
     "unist-util-visit": "^5.0.0",
     "zustand": "^4.5.0"
   },
@@ -65,7 +61,6 @@
     "husky": "^8.0.3",
     "lint-staged": "^15.2.0",
     "prettier": "^3.2.4",
-    "prettier-plugin-tailwindcss": "^0.5.11",
     "sass": "^1.75.0",
     "typescript": "^5.3.3"
   },
